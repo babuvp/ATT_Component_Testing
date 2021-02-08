@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_media15</name>
+   <tag></tag>
+   <elementGuidId>334bc0f4-1b3b-4fd4-974d-1a7a580bbe1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='JUMP_LINKSV213']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#JUMP_LINKSV213 > div.max-width-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-width-container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Looking for more?I want to...Upgrade my phoneAdd a lineSet up my wireless serviceBring my own phonePick up todayView &amp; pay billGet AT&amp;T PREPAID on my own deviceFind local servicesShop for my businessWirelessApple iPhone 12Samsung Galaxy S21 5GGalaxy Note20 Ultra 5GApple Watch Series 6In-Car Wi-FiAT&amp;T discount program5G phonesGoogle phonesUnlimited Data &amp; 5G plansPhone trade-in and recyclingTV &amp; InternetHBO MaxAT&amp;T TVDIRECTVHome InternetFiber InternetAT&amp;T TV &amp; Internet BundlesDIRECTV &amp; Internet BundlesAccess from AT&amp;TMove my serviceInternet service in my areaHelp &amp; supportBill &amp; accountWirelessPrepaidAT&amp;T TVU-verse TVDIRECTVInternetFixed Wireless InternetDSLHome Phone</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;JUMP_LINKSV213&quot;)/div[@class=&quot;max-width-container&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='JUMP_LINKSV213']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='unlimited data plans'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stay in touch with friends &amp; family'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div</value>
+   </webElementXpaths>
+</WebElementEntity>
